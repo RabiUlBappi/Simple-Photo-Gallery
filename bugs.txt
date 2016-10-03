@@ -1,0 +1,2 @@
+1. cannot unlink the photo
+2. cannot provide right message for deleting photo or comment 
